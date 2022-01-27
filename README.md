@@ -58,7 +58,7 @@
 
 
 - [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/button.svg)( 
-https://heroku.com/deploy?template=https://github.com/bossyislove/legendbot
+https://heroku.com/deploy?template=https://github.com/Bossyislove/legendbot
 
 - Clone the repo. 
 
